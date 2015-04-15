@@ -11,19 +11,11 @@ header h3 { margin: 5px; float: left;}
 .menu-anchor { float: left; background: url('../img/menu.png') no-repeat; width: 36px; height: 36px; cursor: pointer;}
 
 .container { background: #fff;   padding: 50px; font-size: 20px;}
-#polo {
-  background: red;
-  position: relative;
-  }
+#polo { background: red; position: relative; }
+  
 #mascaraPolo { position: absolute; background: url('../img/mascara.png') no-repeat center; width: 1024px; height: 160px; right: 0; top: -160px;}
 
-#linha{
-  background: #fff;
-}
+#linha{ background: #fff; }
 
-#video_polo{
- right: 90px;
- position: absolute;
- display: block;
-}
+#video_polo{ float: right; margin-right: -40px;}
 
