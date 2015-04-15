@@ -1,0 +1,29 @@
+body {background: #E1962F}
+
+#redes-sociais{list-style: none; margin: 0px; padding: 0px; margin-top: 7px; padding-right: 20px; }
+#redes-sociais li {float: left; padding-left: 15px; color: #fff}
+
+header { background: #808082; padding-left: 20px; padding-top: 13px; text-align: center; height: 60px}
+header h3 { margin: 5px; float: left;}
+
+/* informações de menu */
+/* quando o script inserir a classe, nós retornamos o menu para a posição original */
+.menu-anchor { float: left; background: url('../img/menu.png') no-repeat; width: 36px; height: 36px; cursor: pointer;}
+
+.container { background: #fff;   padding: 50px; font-size: 20px;}
+#polo {
+  background: red;
+  position: relative;
+  }
+#mascaraPolo { position: absolute; background: url('../img/mascara.png') no-repeat center; width: 1024px; height: 160px; right: 0; top: -160px;}
+
+#linha{
+  background: #fff;
+}
+
+#video_polo{
+ right: 90px;
+ position: absolute;
+ display: block;
+}
+
